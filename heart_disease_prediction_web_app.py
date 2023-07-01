@@ -41,7 +41,7 @@ def main():
     
     st.title('Heart disease prediction web app')
     st.write('*created by Navaneethkrishnan M*')
-    st.write("Buy me a coffee !! [link](https://www.buymeacoffee.com/navaneethnk)")
+    st.write("[Buy me a coffee!!☕](https://www.buymeacoffee.com/navaneethnk)")
 
     
     #getting the data from user
