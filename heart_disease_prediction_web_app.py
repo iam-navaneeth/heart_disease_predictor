@@ -43,6 +43,7 @@ def main():
     st.write('*created by Navaneethkrishnan M*')
     st.write("[Buy me a coffee!!☕](https://www.buymeacoffee.com/navaneethnk)")
     st.write("PS : This predictor have 85% accuracy")
+    st.write("Enter values based on the medical reports")
 
     
     #getting the data from user
