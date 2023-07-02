@@ -42,7 +42,7 @@ def main():
     st.title('Heart disease prediction web app')
     st.write('*created by Navaneethkrishnan M*')
     st.write("[Buy me a coffee!!☕](https://www.buymeacoffee.com/navaneethnk)")
-    st.write("PS : This predictor have 85% accuracy,Enter values based on the medical reports ")
+    st.write("PS : This predictor have 85% accuracy, Enter values based on the medical reports (only numeric values are supported) ")
 
     
     #getting the data from user
